@@ -37,7 +37,7 @@ Este projeto foi desenvolvido para exibir leituras de temperatura em um painel v
 ### 1) Entre na pasta do projeto
 
 ```powershell
-cd "c:\Users\anton\Documents\smartclass - pacotao completo\site\projeto-smartclass"
+cd "c:\projeto-smartclass"
 ```
 
 ### 2) Instale as dependências
