@@ -30,7 +30,7 @@ https://nodejs.org/
 ### 2) Entre na pasta do projeto
 
 ```powershell
-cd "c:\Users\anton\Documents\smartclass - pacotao completo\site\projeto-smartclass"
+cd "c: \projeto-smartclass"
 ```
 
 ### 3) Inicie o servidor com npm
