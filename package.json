@@ -1,0 +1,26 @@
+{
+  "name": "smartclass-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard de temperatura para Arduino com HTML, CSS, JavaScript e Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "arduino",
+    "dashboard",
+    "temperatura",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniokauetesta/projeto-smartclass.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/antoniokauetesta/projeto-smartclass/issues"
+  },
+  "homepage": "https://github.com/antoniokauetesta/projeto-smartclass#readme"
+}
